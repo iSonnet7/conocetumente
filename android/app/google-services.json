@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33518339495",
+    "project_id": "conoce-tu-mente-2a083",
+    "storage_bucket": "conoce-tu-mente-2a083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33518339495:android:6363060a2e00a54381a282",
+        "android_client_info": {
+          "package_name": "com.example.conocetumente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33518339495-gart2887oq0cu2eaos7qkvmb6k7hq5c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB6cwWMCEqdeHdjP95WwCUzJ-fOkHUqIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33518339495-gart2887oq0cu2eaos7qkvmb6k7hq5c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
